@@ -20,8 +20,7 @@ Por favor, indicame:
 - Expectativas económicas o rango deseado.  
 
 ## Contenido del repositorio
-- [`JOB_POSTING.md`](./JOB_POSTING.md) → Descripción completa del puesto.  
-- `README.md` → Resumen del proyecto y cómo postular.  
+- [`JOB_POSTING.md`](./JOB_POSTING.md) → Descripción completa del puesto.   
 
 ## 💬 Dudas o contacto
 Si tienes preguntas, puedes abrir un **Issue** o iniciar una **Discussion** en este repositorio.  
