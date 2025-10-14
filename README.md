@@ -13,7 +13,7 @@ Si eres profesional del área de Modern Workplace y te interesa un rol de lidera
 - Manejo y gestión del equipo.
 
 ## Cómo postular
-Envíame tu CV y una breve descripción (1-3 líneas) explicando tu experiencia en proyectos M365 a: **jench.neyra@gmail.com** / O añadame a LinkedIN : **https://www.linkedin.com/in/jenniferneyra/**   
+Envíame tu CV y una breve descripción (1-3 líneas) explicando tu experiencia en proyectos M365 a: **jench.neyra@gmail.com** / O añádeme a LinkedIN : **https://www.linkedin.com/in/jenniferneyra/**   
 
 Por favor, indicame:
 - Disponibilidad para incorporación.  
