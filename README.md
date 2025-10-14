@@ -23,10 +23,7 @@ Por favor, indicame:
 - [`JOB_POSTING.md`](./JOB_POSTING.md) → Descripción completa del puesto.   
 
 ## 💬 Dudas o contacto
-Si tienes preguntas, puedes abrir un **Issue** o iniciar una **Discussion** en este repositorio.  
-También puedes seguirme en [LinkedIn](https://www.linkedin.com) para conocer nuevas oportunidades IT.
-
----
+Si tienes preguntas, puedes encontrarme en[LinkedIn](https://www.linkedin.com/in/jenniferneyra) para conocer nuevas oportunidades IT.
 
 ⭐ Si conoces a alguien que pueda encajar, compártelo o márcalo con una estrella para darle visibilidad.
 
