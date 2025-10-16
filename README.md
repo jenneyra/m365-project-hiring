@@ -1,4 +1,4 @@
-![Banner del proyecto](assets/banner.png)
+![Banner del proyecto](assets/banner.jpg)
 
 # Proyecto M365 — Oportunidad: Jefe/a de Proyecto
 
