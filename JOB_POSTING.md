@@ -2,7 +2,7 @@
 
 **Ubicación:** [Hibrido: 2 días a las semana] — [Ciudad / Barcelona]  
 **Tipo de contrato:** [ Indefinido ]  
-**Rango retributivo estimado:** [50.000–70.000 €/año según experiencia y valía]
+**Rango retributivo estimado:** [50.000–65.000 €/año según experiencia y valía]
 
 ## Resumen del puesto
 Me encuetro a la búsqueda de un/a Jefe/a de Proyecto con sólida experiencia en proyectos Microsoft 365 para liderar la migración, e implementación en diferentes empresas clientes. ( Sector público y privado en Barcelona - Catalunya). La persona liderará al equipo técnico, gestionará stakeholders y garantizará la entrega según alcance, plazo y coste.
