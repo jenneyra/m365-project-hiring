@@ -1,3 +1,5 @@
+![Banner del proyecto](assets/banner.png)
+
 # Proyecto M365 — Oportunidad: Jefe/a de Proyecto
 
 Bienvenido/a 👋  
